@@ -12,3 +12,6 @@ Remote Run - a tool to synchronize and run on HPC/Remote servers from your local
   - Implement remote and local paths
 - Implement `get_from`, which retrieves files after running using rsync from the foreign directory
 - Implement `check_progress`, which incrementally checks progress from the remote server
+- Create `setup.py`
+- Create docs
+- Create tests
